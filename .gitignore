@@ -1,4 +1,4 @@
 .venv/
-raw_frames/
+raw_frames/*.png
 __pycache__/
 
