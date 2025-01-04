@@ -1,4 +1,4 @@
-### Rune Solver
+# Rune Solver
 Open the terminal(cmd) and run all of the following:
 
 Manage the environment using pyenv
@@ -17,7 +17,7 @@ You will notice the prefix change to (.venv) in the terminal
 
 pip install -r requirements.txt
 
-# To troubleshoot to make sure you have Torch working with your cuda drivers
+## To troubleshoot to make sure you have Torch working with your cuda drivers
 in the (.venv) terminal session type in:
 1. python
 2. import torch
