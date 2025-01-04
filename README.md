@@ -6,8 +6,9 @@ https://github.com/pyenv-win/pyenv-win
 Follow the instructions and install version 3.10.0
 
 Use these 2 commands to create a virtualenv called .venv
-pyenv exec pip install virtualenv
-pyenv exec python -m virtualenv .venv
+
+1. pyenv exec pip install virtualenv
+2. pyenv exec python -m virtualenv .venv
 
 For Windows:
 .venv\Scripts\activate
