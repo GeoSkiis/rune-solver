@@ -1,4 +1,4 @@
-## rune-solver
+### Rune Solver
 Open the terminal(cmd) and run all of the following:
 
 Manage the environment using pyenv
