@@ -1,0 +1,16 @@
+numpy<2.0
+opencv-python
+fastapi
+uvicorn
+tensorflow<2.11
+python-multipart
+matplotlib
+opencv-python
+python-dotenv
+torchvision
+torch
+
+# Change torchvision and torch to the following in requirements.txt:
+# torchvision==0.13.1+cu113
+# torch==1.12.1+cu113
+# -f https://download.pytorch.org/whl/torch_stable.html

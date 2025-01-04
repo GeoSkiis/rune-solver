@@ -1,0 +1,4 @@
+.venv/
+raw_frames/
+__pycache__/
+
